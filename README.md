@@ -1,5 +1,5 @@
 # GodotShaderCollection
-This is a collection of some shaders that I made while developing my game that seemed useful enough to share
+This is a collection of some shaders that I made while developing my games that seemed useful enough to share
 
 ## SLIPGATE
 Warps the texture UVs in world space or screen space. My attempt to recreate the slipgate from Quake
